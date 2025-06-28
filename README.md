@@ -1,4 +1,2 @@
 # Git-demo
-Git demo repository
-<br>
-Author- Dheeraj Lowanshi
+this is first repository
